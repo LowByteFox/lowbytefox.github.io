@@ -1,0 +1,9 @@
+metas:
+  site: LowByteFox's Web
+  description: LowByteFox's personal portfolio
+  twitter: "@LowByteFox"
+  icon: https://codeberg.org/avatars/e1c393e2a68d2460825f75eee34d30f7efb3835f3c6f86467f2d8bb1f3f9f1dc
+  lang: en
+  generator: true
+  robots: true
+  keywords: ["Webpage", "LowByteFox", "ZeonDB", "Buchta",  "C", "zig"]
