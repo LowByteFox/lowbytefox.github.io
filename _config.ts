@@ -1,12 +1,10 @@
 import lume from "lume/mod.ts";
-import postcss from "lume/plugins/postcss.ts";
 import inline from "lume/plugins/inline.ts";
 import metas from "lume/plugins/metas.ts";
 import minify_html from "lume/plugins/minify_html.ts";
 
 const site = lume();
 
-site.use(postcss());
 site.use(metas());
 site.use(inline());
 site.use(minify_html({
